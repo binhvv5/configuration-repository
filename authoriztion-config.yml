@@ -1,0 +1,2 @@
+authorization:
+    name: "This is authorization from configuration server"
